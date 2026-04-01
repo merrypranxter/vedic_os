@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "Temporal Recursion",
+    "filename": "node01_temporal_recursion.md",
+    "summary": "Time as a cyclic entropy loop; Yuga cycle mapping to conformal cyclic cosmology.",
+    "tags": ["time-loop", "entropy-cycle", "conformal-cosmology", "yuga"]
+  },
+  {
+    "id": 2,
+    "name": "Observer Effect",
+    "filename": "node02_observer_effect.md",
+    "summary": "Measurement collapses the wavefunction; Brahman and Atman model the global and local observer.",
+    "tags": ["observer-effect", "wavefunction-collapse", "brahman-atman", "quantum"]
+  },
+  {
+    "id": 3,
+    "name": "Light Speed Constants",
+    "filename": "node03_light_speed_constants.md",
+    "summary": "Sayana’s mantra encodes the speed of light; numerical constants hidden in scripture.",
+    "tags": ["light-speed", "sayana", "cosmic-constant", "numerical-mantra"]
+  },
+  {
+    "id": 4,
+    "name": "Particle Physics",
+    "filename": "node04_particle_physics.md",
+    "summary": "Vaisheshika Sutra outlines atomic theory and categories of matter.",
+    "tags": ["particle-physics", "vaisheshika", "atomic", "dravya-guna-karma"]
+  },
+  {
+    "id": 5,
+    "name": "Vacuum State",
+    "filename": "node05_vacuum_state.md",
+    "summary": "Shūnya as zero-point field; the vacuum teeming with potential.",
+    "tags": ["vacuum-state", "zero-point", "shunya", "higgs-field"]
+  },
+  {
+    "id": 6,
+    "name": "Churning of the Ocean",
+    "filename": "node06_churning_ocean.md",
+    "summary": "Samudra Manthan as a metaphor for phase transitions and symmetry breaking.",
+    "tags": ["phase-transition", "symmetry-breaking", "samudra-manthan", "vortex"]
+  },
+  {
+    "id": 7,
+    "name": "Indra’s Net",
+    "filename": "node07_indras_net.md",
+    "summary": "An infinite net of jewels reflecting each other; holographic principle and entanglement.",
+    "tags": ["indras-net", "holography", "entanglement", "network-reflection"]
+  },
+  {
+    "id": 8,
+    "name": "Shiva’s Tandava",
+    "filename": "node08_shivas_tandava.md",
+    "summary": "The cosmic dance representing oscillation and string vibration.",
+    "tags": ["tandava", "string-vibration", "cosmic-dance", "oscillation"]
+  },
+  {
+    "id": 9,
+    "name": "Multiverse",
+    "filename": "node09_multiverse.md",
+    "summary": "Many universes as bubbles or branes; M-theory and cosmic foam.",
+    "tags": ["multiverse", "brane", "bubble-universe", "cosmic-foam"]
+  },
+  {
+    "id": 10,
+    "name": "Vibratory Substrate",
+    "filename": "node10_vibratory_substrate.md",
+    "summary": "AUM and cymatics; matter as standing waves in the field.",
+    "tags": ["vibration", "aum", "cymatics", "standing-waves", "acoustic-gravity"]
+  },
+  {
+    "id": 11,
+    "name": "Time Dilation",
+    "filename": "node11_time_dilation.md",
+    "summary": "Kakudmi’s paradox illustrates relativistic time dilation.",
+    "tags": ["time-dilation", "relativity", "kakudmi", "temporal-frames"]
+  },
+  {
+    "id": 12,
+    "name": "Genetic Coil",
+    "filename": "node12_genetic_coil.md",
+    "summary": "Kundalini and nāḍīs mirror DNA and epigenetic activation.",
+    "tags": ["kundalini", "dna-helix", "epigenetics", "nadis", "bio-electric"]
+  },
+  {
+    "id": 13,
+    "name": "Akashic Records",
+    "filename": "node13_akashic_records.md",
+    "summary": "A cosmic library storing all information; quantum information preservation.",
+    "tags": ["akashic-records", "quantum-information", "holographic", "bekenstein-bound"]
+  },
+  {
+    "id": 14,
+    "name": "Fractal Geometry",
+    "filename": "node14_fractal_geometry.md",
+    "summary": "Mandalas and yantras reveal fractal self-similarity and chaos theory.",
+    "tags": ["fractal", "mandala", "yantra", "chaos-theory", "self-similarity"]
+  },
+  {
+    "id": 15,
+    "name": "Higher Dimensional Planes",
+    "filename": "node15_higher_dimensional_planes.md",
+    "summary": "Fourteen lokas correspond to higher dimensions and frequency bands.",
+    "tags": ["higher-dimensions", "lokas", "superstring", "frequency-bands", "branes"]
+  },
+  {
+    "id": 16,
+    "name": "The Gunas",
+    "filename": "node16_gunas.md",
+    "summary": "Sattva, Rajas and Tamas map to qualitative physics properties.",
+    "tags": ["gunas", "spin-charge-mass", "qualitative-physics", "sattva-rajas-tamas"]
+  },
+  {
+    "id": 17,
+    "name": "Hiranyagarbha",
+    "filename": "node17_hiranyagarbha.md",
+    "summary": "The golden cosmic egg as the primordial singularity.",
+    "tags": ["hiranyagarbha", "cosmic-egg", "singularity", "big-bang"]
+  },
+  {
+    "id": 18,
+    "name": "Brahmā’s Lifespan",
+    "filename": "node18_brahmas_lifespan.md",
+    "summary": "Cosmic timescales of billions and trillions of years; kalpas and heat death.",
+    "tags": ["brahma-timescale", "kalpa", "cosmic-duration", "heat-death"]
+  },
+  {
+    "id": 19,
+    "name": "Prāṇa",
+    "filename": "node19_prana.md",
+    "summary": "Life force as vacuum energy; breathing as energy modulation.",
+    "tags": ["prana", "dark-energy", "zero-point", "breath-control", "life-force"]
+  },
+  {
+    "id": 20,
+    "name": "Māyā",
+    "filename": "node20_maya.md",
+    "summary": "The rendering engine of the simulation; dualistic perception and predictive models.",
+    "tags": ["maya", "simulation", "rendering-engine", "illusion", "gpu-shader"]
+  },
+  {
+    "id": 21,
+    "name": "Sāṃkhya",
+    "filename": "node21_sankhya.md",
+    "summary": "Binary enumeration and set theory dividing Puruṣa and Prakṛti.",
+    "tags": ["sankhya", "binary", "set-theory", "tattvas", "purusha-prakriti"]
+  },
+  {
+    "id": 22,
+    "name": "Karma",
+    "filename": "node22_karma.md",
+    "summary": "Conservation laws framed as a cosmic ledger recording every action.",
+    "tags": ["karma", "conservation", "ledger", "feedback-loop"]
+  },
+  {
+    "id": 23,
+    "name": "Tattvas",
+    "filename": "node23_tattvas.md",
+    "summary": "The OSI-like stack of 24 constituents of reality.",
+    "tags": ["tattvas", "osi-model", "layers", "stack", "elements"]
+  },
+  {
+    "id": 24,
+    "name": "Vimānas",
+    "filename": "node24_vimanas.md",
+    "summary": "Mercury vortex engines and magnetohydrodynamic propulsion.",
+    "tags": ["vimana", "mhd-propulsion", "mercury-vortex", "flying-machine", "ancient-tech"]
+  },
+  {
+    "id": 25,
+    "name": "Mokṣa",
+    "filename": "node25_moksha.md",
+    "summary": "Root exit from the simulation; non-duality and shutdown routines.",
+    "tags": ["moksha", "root-access", "liberation", "shutdown", "non-duality"]
+  }
+]
